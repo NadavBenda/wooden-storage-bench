@@ -1,6 +1,6 @@
 Wooden Storage Bench
 
-DIY wooden storage bench designed in Tinkercad.
+DIY wooden storage bench designed in Tinkercad and assembled by hand ✋ 
 
 - Hinged plywood lid
 - Internal wooden frame
@@ -13,4 +13,7 @@ Tinkercad design:
 https://www.tinkercad.com/things/gDZGs5nSU03-hadom/edit
 
 Status:
-Done 
+Assembled 
+
+
+<img src="hadom_image.png" width="500">
